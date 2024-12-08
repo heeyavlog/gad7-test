@@ -55,8 +55,9 @@ def run_gad7_test():
         if total_score >= 10:
             st.write('''
             ### 도움받을 수 있는 곳
-            - 정신건강상담전화: 1577-0199
-            - 가까운 정신건강복지센터 찾기: [링크](https://www.nmcnp.go.kr/index.do)
+            - 정신건강상담전화: (02) 2204-0114
+            - 가까운 정신건강복지센터 찾기: [링크](https://www.mentalhealth.go.kr/portal/health/fac/PotalHealthFacListTab2.do)
+            - 좀더 많은 정보를 알고 싶다면: [링크](https://lzhakko.tistory.com/)
             ''')
 
 if __name__ == '__main__':
